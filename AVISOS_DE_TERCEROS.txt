@@ -1,0 +1,18 @@
+AVISOS DE TERCEROS
+==================
+Gravity Clips incluye software de terceros, cada uno bajo su propia licencia.
+
+- FFmpeg (build de gyan.dev, GPL v3). Codigo fuente: https://ffmpeg.org  /
+  https://www.gyan.dev/ffmpeg/builds/
+- Python (PSF License).
+- PyTorch (BSD), torchaudio (BSD).
+- WhisperX (BSD-2-Clause), faster-whisper (MIT), CTranslate2 (MIT).
+- Modelo Whisper large-v3 (MIT, OpenAI), convertido por Systran.
+- Modelo de alineacion wav2vec2 VoxPopuli (espanol), via torchaudio.
+- OpenCV (Apache 2.0), Flask (BSD-3), React y Babel (MIT).
+- Runtime de Microsoft Visual C++ (archivos redistribuibles).
+- Tipografias incluidas en app\fonts: sujetas a la licencia de cada una.
+
+PENDIENTE DE CONFIRMAR ANTES DE ENTREGAR (lo revisa Gravity, no el usuario):
+- licencia del modelo de alineacion VoxPopuli para uso comercial;
+- licencia de redistribucion de las tipografias de app\fonts.
